@@ -82,5 +82,5 @@ def generate_slotting_layout_report(filename):
 
 # === Generate 150 reports ===
 if __name__ == "__main__":
-    for i in range(1):
+    for i in range(300):
         generate_slotting_layout_report(f"slotting_layout_report_{i+1}.pdf")
