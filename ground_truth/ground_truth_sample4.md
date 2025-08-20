@@ -1,8 +1,9 @@
-TORONTO SUN
+```markdown
+# TORONTO SUN
 Toronto, ON, CN
 July 13, 2000
 
-STEERAGE
+## STEERAGE
 By DAN PROUDFOOT
 Toronto Sun
 
@@ -270,3 +271,4 @@ considerable wisdom.
 
 "These things are not easy," he said. "If
 it was, then we'd win every race."
+```

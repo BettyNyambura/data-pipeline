@@ -5,8 +5,7 @@
 
 ---
 
-### COLUMN 1
-
+### COLUMN 1 ---
 **283,800 mentally ill in prison or jail; 547,800 on probation**
 
 Using the same criteria described for State prison inmates, 16% of offenders in local jails or on probation and 7% of inmates in Federal prisons were identified as mentally ill in recently completed BJS surveys (table 2). Probationers were somewhat less likely than inmates in State prisons or local jails to report an overnight stay in a mental hospital or treatment program but more likely to report a mental or emotional problem. Federal inmates had lower rates on both measures.
@@ -19,8 +18,7 @@ Nearly a quarter of white State prison and local jail inmates and a fifth of whi
 
 ---
 
-### COLUMN 2
-
+### COLUMN 2 ---
 **14% of those in State prison and local jails, and 10% of those on probation were identified as mentally ill. About 11% of Hispanic State prison and local jail inmates, and 9% of Hispanic offenders on probation had a mental illness.**
 
 Black and Hispanic inmates in Federal prison were half as likely as white inmates to report a mental illness. About 6% of black inmates and 4% of Hispanic inmates reported a mental condition or an overnight stay in a mental hospital, compared to 12% of white Federal prison inmates.
@@ -29,8 +27,7 @@ The prevalence of mental illness also varied by gender, with females reporting a
 
 ---
 
-### COLUMN 3
-
+### COLUMN 3 ---
 **Offender mental illness highest among the middle-aged**
 
 Offenders between ages 45 and 54 were the most likely to be identified as mentally ill. About 20% of State prisoners, 10% of Federal prisoners, 23% of jail inmates, and 21% of probationers between ages 45 and 54 had a mental illness, compared to 14% of State inmates, 7% of Federal inmates, 13% of jail inmates, and 14% of probationers age 24 or younger.
@@ -39,21 +36,19 @@ The highest rates of mental illness were among white females in State prison. An
 
 ---
 
-### COLUMN 1 (Continues in next column)
-
+### COLUMN 1 ---
 **Percent of females in State prison identified as mentally ill**
 
 | Age | Total | White | Black | Hispanic |
 |-----|-------|-------|-------|----------|
 | Total | 29%   | 20%   | 22%   |          |
-| 24 or younger | 37 | 17 | 23 |          |
-| 25-34 | 23 | 20 | 20 | 21       |
-| 35 or older | 33 | 21 | 23 | 23       |
+| 24 or younger | 37 | 17 | 23 |         |
+| 25-34 | 23 | 20 | 20 |         |
+| 35 or older | 33 | 21 | 23 |         |
 
 ---
 
-### COLUMN 2 (Continues in next column)
-
+### COLUMN 2 ---
 **Table 2. Mental health status of inmates and probationers**
 
 | State prison inmates, 1997 | Federal prison inmates, 1997 | Jail inmates, 1996 | Probationers, 1995 |
@@ -65,8 +60,7 @@ The highest rates of mental illness were among white females in State prison. An
 
 ---
 
-### COLUMN 3 (Continues in next column)
-
+### COLUMN 3 ---
 **Table 3. Estimated number of mentally ill inmates and probationers, 1998**
 
 | Estimated number of offenders* |
@@ -79,8 +73,7 @@ The highest rates of mental illness were among white females in State prison. An
 
 ---
 
-### COLUMN 1 (Continues in next column)
-
+### COLUMN 1 ---
 **Table 4. Inmates and probationers identified as mentally ill, by gender, race/Hispanic origin, and age**
 
 | Offender characteristic | State inmates | Federal inmates | Jail inmates | Probationers |
@@ -102,13 +95,11 @@ The highest rates of mental illness were among white females in State prison. An
 
 ---
 
-### COLUMN 2 (Continues in next column)
-
+### COLUMN 2 ---
 **Mental Health and Treatment of Inmates and Probationers**
 
 ---
 
-### COLUMN 3 (Continues in next column)
-
-**3**s
+### COLUMN 3 ---
+**3**
 ```
