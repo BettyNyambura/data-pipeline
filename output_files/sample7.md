@@ -3,13 +3,13 @@ SCANNING DOCUMENT: 3 columns detected
 
 --- COLUMN 1 ---
 law banning radio and television advertising of
-snuff and chewing tobacco, a billion-dollar industry in the United States Winston Salem NC
+smell and chewing tobacco, a billion-dollar industry in the United States Winston Salem NC
 The new law, a compromise between the industry and its critics, also would force all packages of
 smokeless tobacco to carry rotating warning labels Winston Salem Source
 Cigarette makers, although not required to rotate
 warnings until last October, have lived with
-warnings labels and ad bans since 1971.
-But the health issues and marketing curbs that
+warnings and had been hit with lawsuits.
+But the health issues and marketing hype that
 put cigarettes in a bind proved to be a windfall for
 the smokeless industry through the 1970s and early
 1980s. Pitched as a healthier, rugged alternative to
@@ -72,13 +72,18 @@ he defaced a cigarette billboard be
 cause he wants to "save lives" has
 pleaded "not guilty" to a charge of de
 struction of property.
-"As a physician, I have to respond to a medical emergency, and I felt it was worth breaking the
-law." Dr. Michael Lippman said at his city court
-arraignment Thurdsay. 
-Lippman's attorney, Joy Smucker, said she would use the 
-legal defence or "necessity." Lippman defaced
-the billboard because he was confronting
-
+Dr. Michael Lippman, 35, sprayed
+the words "of cancer" after the
+billboard message reading, "Camel
+... it's a whole new world." He was
+caught by police.
+A pretrial hearing date was set for
+Feb. 26. Lippman could face a fine of
+up to $5,000 and a year in jail.
+Lippman, a family physician in
+Seattle, is a member of a group called
+Washington DOCC, or Doctors Ought to
+Care, which opposes smoking.
 More smuggling
 of cigarettes
 called unlikely

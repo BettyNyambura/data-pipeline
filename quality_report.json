@@ -1,0 +1,76 @@
+{
+  "per_file": [
+    {
+      "file": "ground_truth_sample1.md",
+      "character_accuracy": 66.62451592507705,
+      "character_error_rate": 33.37548407492295,
+      "word_accuracy": 67.24303554274735,
+      "word_error_rate": 32.75696445725265,
+      "line_accuracy": 66.66666666666666,
+      "line_error_rate": 33.33333333333334,
+      "insertion_errors": 7,
+      "deletion_errors": 6,
+      "substitution_errors": 8
+    },
+    {
+      "file": "ground_truth_sample2.md",
+      "character_accuracy": 99.84813971146545,
+      "character_error_rate": 0.15186028853455014,
+      "word_accuracy": 99.8936170212766,
+      "word_error_rate": 0.10638297872340274,
+      "line_accuracy": 98.63013698630137,
+      "line_error_rate": 1.3698630136986338,
+      "insertion_errors": 0,
+      "deletion_errors": 2,
+      "substitution_errors": 0
+    },
+    {
+      "file": "ground_truth_sample3.md",
+      "character_accuracy": 38.68280103154136,
+      "character_error_rate": 61.31719896845864,
+      "word_accuracy": 76.2008733624454,
+      "word_error_rate": 23.799126637554593,
+      "line_accuracy": 30.76923076923077,
+      "line_error_rate": 69.23076923076923,
+      "insertion_errors": 2,
+      "deletion_errors": 2,
+      "substitution_errors": 18
+    },
+    {
+      "file": "ground_truth_sample4.md",
+      "character_accuracy": 91.27548048922539,
+      "character_error_rate": 8.724519510774613,
+      "word_accuracy": 93.65757476174828,
+      "word_error_rate": 6.342425238251721,
+      "line_accuracy": 86.69527896995707,
+      "line_error_rate": 13.304721030042927,
+      "insertion_errors": 7,
+      "deletion_errors": 3,
+      "substitution_errors": 14
+    },
+    {
+      "file": "ground_truth_sample5.md",
+      "character_accuracy": 99.8501592058438,
+      "character_error_rate": 0.149840794156205,
+      "word_accuracy": 99.89406779661016,
+      "word_error_rate": 0.1059322033898411,
+      "line_accuracy": 97.87234042553192,
+      "line_error_rate": 2.1276595744680833,
+      "insertion_errors": 0,
+      "deletion_errors": 2,
+      "substitution_errors": 0
+    },
+    {
+      "file": "AVERAGE",
+      "character_accuracy": 79.2562192726306,
+      "word_accuracy": 87.37783369696555,
+      "line_accuracy": 76.12673076353755
+    }
+  ],
+  "averages": {
+    "file": "AVERAGE",
+    "character_accuracy": 79.2562192726306,
+    "word_accuracy": 87.37783369696555,
+    "line_accuracy": 76.12673076353755
+  }
+}
